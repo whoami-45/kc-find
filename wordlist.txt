@@ -80,3 +80,12 @@
 /resource/assets/kcfinder-3.12/upload.php
 /resources/js/kcfinder-3.12/upload.php
 /resource/js/kcfinder-3.12/upload.php
+/assets/vendors/kcfinder/3.12/upload.php
+/assets/vendors/kcfinder/upload.php
+/assets/vendors/js/kcfinder/upload.php
+/assets/vendor/kcfinder/upload.php
+/assets/vendors/kcfinder-3.12/upload.php
+/assets/vendors/js/kcfinder-3.12/upload.php
+/assets/vendor/kcfinder-3.12/upload.php
+/resources/vendor/kcfinder/upload.php
+/resources/vendor/kcfinder-3.12/upload.php
