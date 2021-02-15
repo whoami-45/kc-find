@@ -89,3 +89,9 @@
 /assets/vendor/kcfinder-3.12/upload.php
 /resources/vendor/kcfinder/upload.php
 /resources/vendor/kcfinder-3.12/upload.php
+/media/kcfinder-3.12/upload.php
+/media/kcfinder/upload.php
+/upload/kcfinder/upload.php
+/upload/kcfinder-3.12/upload.php
+/uploads/kcfinder/upload.php
+/uploads/kcfinder-3.12/upload.php
