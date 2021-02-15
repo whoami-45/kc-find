@@ -58,3 +58,5 @@
 /public/ckeditor/plugins/kcfinder-3.12/upload.php
 /js/tinymce/kcfinder-3.12/upload.php
 /tinymce/kcfinder-3.12/upload.php
+/components/kcfinder/upload.php
+/component/kcfinder-3.12/upload.php
