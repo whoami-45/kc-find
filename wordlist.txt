@@ -60,3 +60,11 @@
 /tinymce/kcfinder-3.12/upload.php
 /components/kcfinder/upload.php
 /component/kcfinder-3.12/upload.php
+/libs/kcfinder/upload.php
+/lib/kcfinder/upload.php
+/assets/libs/kcfinder/upload.php
+/assets/lib/kcfinder/upload.php
+/libs/kcfinder-3.12/upload.php
+/lib/kcfinder-3.12/upload.php
+/assets/libs/kcfinder-3.12/upload.php
+/assets/lib/kcfinder-3.12/upload.php
