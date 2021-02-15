@@ -68,3 +68,15 @@
 /lib/kcfinder-3.12/upload.php
 /assets/libs/kcfinder-3.12/upload.php
 /assets/lib/kcfinder-3.12/upload.php
+/resources/kcfinder/upload.php
+/resources/assets/kcfinder/upload.php
+/resource/kcfinder/upload.php
+/resource/assets/kcfinder/upload.php
+/resources/js/kcfinder/upload.php
+/resource/js/kcfinder/upload.php
+/resources/kcfinder-3.12/upload.php
+/resources/assets/kcfinder-3.12/upload.php
+/resource/kcfinder-3.12/upload.php
+/resource/assets/kcfinder-3.12/upload.php
+/resources/js/kcfinder-3.12/upload.php
+/resource/js/kcfinder-3.12/upload.php
