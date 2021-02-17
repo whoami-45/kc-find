@@ -20,6 +20,10 @@ $ cd kc-find
 $ pip3 install -r requirements.txt
 $ python3 find.py
 ```
+##### Update Wordlist
+```sh
+$ python update.py
+```
 #### Note
 Error 403 = Firewall in Website <br />
 Error 500 = Server not Responding / Connection Error
