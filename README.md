@@ -22,6 +22,7 @@ $ python3 find.py
 ```
 ##### Update Wordlist
 ```sh
+$ apt install wget
 $ python update.py
 ```
 #### Note
