@@ -149,3 +149,10 @@
 /vendor/kcfinder/upload.php
 /webassist/kcfinder-3.12/upload.php
 /webassist/kcfinder/upload.php
+/third_party/kcfinder/upload.php
+/third_party/kcfinder-3.12/upload.php
+/ard/assets/js/kcfinder/upload.php
+/editor/kcfinder/upload.php
+/assets/grocery_crud/texteditor/ckeditor/kcfinder/upload.php
+/assets/text_editor/kcfinder/upload.php
+/assets/js/ckeditor12/kcfinder/upload.php
